@@ -1,0 +1,1 @@
+Public > acá estarán nuestros archivos públicos o estáticos. 
